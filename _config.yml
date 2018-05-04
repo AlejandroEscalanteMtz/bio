@@ -1,10 +1,8 @@
 # Site settings
-title: Creative Theme
+title: filtro De Agua Responsable
 email: theme@viennalabs.com
 description: > # this means to ignore newlines until "baseurl:"
- Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
- The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project!
-
+Un filtro de agua con diseño inspirado en la planta “Nepenthes bicalcarata” y en la botella Klein de uso en exteriores. Este producto recolecta agua de la lluvia sin intervenir con su función natural en las plantas de las que están a su alrededor. Recolecta y filtra tanto agua como humedad mediante métodos ecológicamente responsables. Hecha de resina de por fuera y polímero de cerámica por dentro. El producto tiene un ciclo de vida de la cuna a la cuna.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
